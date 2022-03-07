@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on [EdgeNut](https://edgenut.com).
+
 <!--
 **threadx/threadx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
